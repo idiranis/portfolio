@@ -42,6 +42,8 @@ yarn@v1.21.1 or higher
 - [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
 - [GraphQL](https://graphql.org/) - Query language for APIs
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
+- [react-tsparticles](https://github.com/matteobruni/react-tsparticles) -A react.js component using particles as animation 
+- [react-text-fun](https://github.com/nitin42/react-text-fun) -A react.js component for text animation    
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
 
