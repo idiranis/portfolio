@@ -1,6 +1,6 @@
-
 # anis idir portfolio
-## A clean, beautiful and responsive portfolio 
+
+## A clean, beautiful and responsive portfolio
 
 ## Features
 
@@ -12,7 +12,6 @@
 ⚡️ Image optimization with Gatsby\
 ⚡️ Easy site customization\
 ⚡️ Well organized documentation
-
 
 ---
 
@@ -37,15 +36,14 @@ Also, you can use [Yarn](https://yarnpkg.com/) instead of NPM ☝️
 ```
 yarn@v1.21.1 or higher
 ```
+
 ## Technologies used 🛠️
 
 - [Gatsby](https://www.gatsbyjs.org/) - Static Site Generator
 - [GraphQL](https://graphql.org/) - Query language for APIs
 - [React](https://es.reactjs.org/) - Front-End JavaScript library
-- [react-tsparticles](https://github.com/matteobruni/react-tsparticles) -A react.js component using particles as animation 
-- [react-text-fun](https://github.com/nitin42/react-text-fun) -A react.js component for text animation    
+- [react-tsparticles](https://github.com/matteobruni/react-tsparticles) -A react.js component using particles as animation
+- [react-text-fun](https://github.com/nitin42/react-text-fun) -A react.js component for text animation
+- [react-typist](https://github.com/jstejada/react-typist) -A react.js component for text typing animations
 - [Bootstrap 4](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - Front-End UI library
 - [Sass](https://sass-lang.com/documentation) - CSS extension language
-
-
-

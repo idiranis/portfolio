@@ -4,6 +4,7 @@ import { Container } from 'react-bootstrap';
 import Fade from 'react-reveal/Fade';
 import { Link } from 'react-scroll';
 import { LiquidDistortionText } from 'react-text-fun';
+import Typist from 'react-typist';
 import PortfolioContext from '../../context/context';
 
 const Header = () => {
@@ -202,14 +203,14 @@ const Header = () => {
             {title || '{  Hi, my name is'}{' '}
             <LiquidDistortionText
               className="hero-title"
-              text="Anis IDIR"
-              paddingTop={25}
+              text="AnisIDIR"
+              paddingTop={28}
               fill="#0e0147"
               fontSize={120}
               speed={0.6}
               volatility={0.02}
             />
-            {subtitle || "I'm a Web & Mobile developer } ;"}
+            <Typist>{subtitle || "I'm a Web & Mobile developer } ;"} </Typist>
           </h1>
         </Fade>
         <Fade left={isDesktop} bottom={isMobile} duration={1000} delay={1000} distance="30px">

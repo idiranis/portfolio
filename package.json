@@ -37,6 +37,7 @@
     "react-text-fun": "^1.0.0",
     "react-tilt": "^0.1.4",
     "react-tsparticles": "^1.18.12",
+    "react-typist": "^2.0.5",
     "tsparticles": "^1.18.12"
   },
   "devDependencies": {
